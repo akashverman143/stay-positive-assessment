@@ -2,28 +2,7 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Clone the https format of the repository (https://github.com/akashverman143/stay-positive-assessment.git).
+Open the path of the required folder (${Home}/stay-positive-assessment) in terminal.
+Run the command "npm i" or "npm install" (Please check for the node package manager installation from its website).
+After installing the dependencies, run the command "npm start".
